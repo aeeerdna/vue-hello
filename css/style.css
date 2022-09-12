@@ -12,8 +12,15 @@ body {
 
 /* content */
 .myTitle {
-    background-color: pink;
-    color: purple;
+    background-color: rgb(60, 105, 240);
+    color: rgb(254, 254, 254);
     font-size: 2rem;
     text-align: center;
+}
+
+.img-park {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%;
 }
