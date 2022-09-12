@@ -15,8 +15,9 @@ const app = new Vue(
     {
         el: '#root',
         data: {
-
+            //message: 'Un titolo molto lungo vue-js',
+            title: 'Un titolo molto lungo vue-js',
+            classes: 'myTitle'
         }
-
     }
 )
